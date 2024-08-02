@@ -1,0 +1,20 @@
+{
+    "name": "Recipe PWA",
+    "short_name": "Recipe",
+    "start_url": "/recipe_new/index.php",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#5cb85c",
+    "icons": [
+        {
+            "src": "/recipe_new/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/recipe_new/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
